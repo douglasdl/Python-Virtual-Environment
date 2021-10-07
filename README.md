@@ -38,5 +38,9 @@ Managing Virtual Environments (Windows)
 pip install virtualenvwrapper-win
 ```
 
+```sh
+where virtualenvwrapper
+```
+
 
 
